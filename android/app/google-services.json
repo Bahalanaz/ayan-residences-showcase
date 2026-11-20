@@ -1,0 +1,20 @@
+{
+  "_comment": "PLACEHOLDER. Replace with your own Firebase project's google-services.json to enable push notifications.",
+  "project_info": {
+    "project_number": "000000000000",
+    "project_id": "demo-placeholder",
+    "storage_bucket": "demo-placeholder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:000000000000:android:0000000000000000000000",
+        "android_client_info": { "package_name": "ph.ayan.ayan_residences" }
+      },
+      "oauth_client": [],
+      "api_key": [ { "current_key": "PLACEHOLDER-NOT-A-REAL-KEY" } ],
+      "services": { "appinvite_service": { "other_platform_oauth_client": [] } }
+    }
+  ],
+  "configuration_version": "1"
+}

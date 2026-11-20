@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark emerald behind the app icon, matching the logo artwork. -->
+    <color name="ic_launcher_background">#06392E</color>
+</resources>
