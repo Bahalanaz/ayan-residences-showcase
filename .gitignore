@@ -47,6 +47,22 @@ app.*.map.json
 # Widget Preview related
 .widget_preview/
 
+# Private or generated files (never commit)
+release/
+.context/
+.claude/
+*.apk
+*.aab
+*.jks
+*.keystore
+key.properties
+.env
+.env.*
+*.pem
+*.p12
+service-account*.json
+*.log
+
 # Secrets and private files (never commit)
 .env
 .env.*

@@ -1,12 +1,21 @@
 # Ayan Residences: Rental Management App
 
-A rental management system built for a real property business with
-apartments, short-stay condos and villas in the **Philippines and the UAE**.
+**A real-world product, built for a real client.** Ayan Residences is a
+property rental business with apartments, short-stay condos and villas in the
+**Philippines and the UAE**. This is not a tutorial or practice project: it
+is the business's own software, designed, built and deployed by me as a
+freelance full-stack developer (October 2026 to present).
+
 One Flutter codebase serves two apps: an **admin app** for the owner and a
 **tenant app** for the people renting.
 
-> **This is a public showcase copy.** It runs in **demo mode** with fictional
-> sample data and no server. The live version runs privately on Supabase.
+**Status: in active development.** The live version runs on a private
+Supabase backend and is being rolled out to the owner and tenants (Android
+app, with an iPhone web app planned). New features are still being added.
+
+> **This is a public showcase copy.** To protect the client and their tenants,
+> it runs in **demo mode** with fictional sample data and no server. The live
+> code, server settings and all real data stay in a private repository.
 
 ## Try it
 
@@ -40,6 +49,13 @@ Demo logins (sample data only):
 - Maintenance requests, complaints and modification requests with photos
 - Lease, documents and **in-app e-signing**
 - Notices, house rules and chat with management
+
+## My role
+
+Sole developer, working directly with the client: gathering requirements from
+how the business actually runs (leases, rent collection, cheques, condo
+bookings, repairs), designing the database and security rules, building both
+apps, deploying the backend and testing with real users.
 
 ## Engineering highlights
 
